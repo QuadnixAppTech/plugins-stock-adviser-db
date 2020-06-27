@@ -3,4 +3,7 @@ version: 0.1
 phases:
   install:
     commands:
+      - cd .quadnix
       - mongoimport --port=8080 --db=stock-adviser --collection=lead --file=leads-update-31May2020.json --jsonArray
+      - cd ..
+
