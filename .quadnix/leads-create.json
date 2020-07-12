@@ -1,23 +1,11 @@
 [
   {
-    "_id": {
-      "$oid": "5f065f435034aa0f6fbe07b4"
-    },
-    "message": "Hang tight while we build this awesome feature.",
-    "__v": 0
+    "message": "Hang tight while we build this awesome feature."
   },
   {
-    "_id": {
-      "$oid": "5f065f435034aa0f6fbe07b5"
-    },
-    "message": "Hold your horses, this thing ain't built yet.",
-    "__v": 0
+    "message": "Hold your horses, this thing ain't built yet."
   },
   {
-    "_id": {
-      "$oid": "5f065f435034aa0f6fbe07b6"
-    },
-    "message": "Look! Look! More awesome features are on their way.",
-    "__v": 0
+    "message": "Look! Look! More awesome features are on their way."
   }
 ]
